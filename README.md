@@ -1,8 +1,12 @@
 # Go test cover with multiple packages support
 
+## Deprecated
+
+Looks like `go test` now supports this functionality, so there is no
+reason to use this tool anymore.
+
 [Original version](https://github.com/pierrre/gotestcover) by Pierre Durand
-was [deprecated](https://github.com/pierrre/gotestcover#deprecated), but
-this one is supported.
+was [deprecated](https://github.com/pierrre/gotestcover#deprecated).
 
 Differences from original version:
 - added support for `-coverpkg`
